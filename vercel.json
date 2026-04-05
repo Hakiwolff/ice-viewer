@@ -1,0 +1,5 @@
+{
+  "installCommand": "npx npm@9 install",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist"
+}
